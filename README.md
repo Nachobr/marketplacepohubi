@@ -12,9 +12,9 @@ such as Amazon, MercadoLibre, Alibaba, etc that now are the reason that give mai
 As ProofOfHumanity mints 1 $UBI token per hour for every human registered in the blockchain, with this MarketPlace working on the Profile of each registered human we can give 
 value so they can exchange for goods and service(also later NFTs).
 
-## How will work ? 
+## How will work ?
 
-Every Human registered on ProofOfHumanity registry will have access with his address to the store and will be able to use UBI(and other ERC20/criptos) to buy and sell goods and services, using oracles to keep products price stable, later also NFTs. To maintain this MP, a small amount UBI will we charged for every transaction, half to maintain and half to burn. 
+Every Human registered on ProofOfHumanity registry will have access with his address to the store and will be able to use UBI(and other ERC20/tokens) to buy and sell goods and services, also later NFTs, using an api to keep products price stable.
 
 👍 Likes / Support (Or how to come up with excuses to burn UBI)🔥🔥🔥
 
