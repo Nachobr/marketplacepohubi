@@ -1,4 +1,4 @@
-# Marketplacepohubi
+# Marketplacepohubi This Repo has been moved to (https://github.com/yubiai/marketplace)
  
 
 An attempt to a MarketPlace Store for every Human registered on the ProofOfHumanity registry!
